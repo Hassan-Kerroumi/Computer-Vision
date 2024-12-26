@@ -1,0 +1,25 @@
+Tasks :                          Person:             Progress: 
+
+Image processing App:-------------------
+
+Extract Edges                   Hassan 
+
+Morphology                      Yassine 
+
+filtering                       Bachir 
+
+Segmentation                    Bachir
+
+AI model:-------------------------------
+
+dataset                         Yassine 
+
+CarDetection                    Hassan 
+
+plateDetection                  Hassan 
+
+ExtractText                     Yassine 
+
+Report                          Bachir and Hassan 
+
+Presentation                    Yassine 
