@@ -1,10 +1,10 @@
-Tasks :                          Person:             Progress: 
+Tasks :                          Person:		Progress: 
 
 Image processing App:-------------------
 
 Extract Edges                   Hassan 
 
-Morphology                      Yassine 
+Morphology                      Yassine			  DONE
 
 filtering                       Bachir 
 
@@ -12,7 +12,7 @@ Segmentation                    Bachir
 
 AI model:-------------------------------
 
-dataset                         Yassine 
+dataset                         Yassine 		  DONE
 
 CarDetection                    Hassan 
 
